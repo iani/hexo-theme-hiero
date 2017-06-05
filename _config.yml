@@ -5,9 +5,9 @@
 # Header Menu
 menu:
   Home: /
-  Archives: archives
-  Categories: categories
-  Tags: tags
+  # Archives: archives
+  # Categories: categories
+  # Tags: tags
   About: about
 rss: /atom.xml
 
@@ -28,10 +28,9 @@ avatar:
   height: 124
   bottom: 10
   url: https://hexo.io/logo.svg
-  
 
 # AboutPage background
-about_big_image: [css/images/pose.jpg, https://images.unsplash.com/photo-1464306208223-e0b4495a5553?dpr=1&auto=format&fit=crop&w=1500&h=1000&q=80&cs=tinysrgb&crop=&bg=]
+about_big_image: [css/images/pose.jpg]
 
 
 # Homepage thumbnail
@@ -46,12 +45,12 @@ fancybox: true
 sidebar: right
 widgets:
 - search
-- social
-- recent_posts
 - category
-- tag
 - tagcloud
+- recent_posts
 - archive
+- tag
+- social
 
 # Social Links
 # Key is the name of FontAwsome icon.
