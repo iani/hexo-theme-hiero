@@ -1,5 +1,10 @@
 # Hiero
 
+This is a fork of [the hiero theme for hexo](https://github.com/iTimeTraveler/hexo-theme-hiero), with some tweaks: 
+
+- Menu only with home and about pages
+- Header image height reduced to 100px
+
 [![Build Status](https://travis-ci.org/iTimeTraveler/hexo-theme-hiero.svg?branch=master)](https://travis-ci.org/iTimeTraveler/hexo-theme-hiero)		[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/iTimeTraveler/hexo-theme-hiero/blob/master/LICENSE)
 
 
